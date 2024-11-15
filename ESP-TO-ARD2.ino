@@ -13,11 +13,11 @@
 #include "addons/RTDBHelper.h"
 
 // Insert your network credentials
-#define WIFI_SSID "realme"
-#define WIFI_PASSWORD "12345678"
+#define WIFI_SSID "Your WIFI_SSID"
+#define WIFI_PASSWORD "Your WIFI_PASSWORD "
 
 // Insert Firebase project API Key
-#define API_KEY "AIzaSyApv9di90PF2DX_z1I8G5_KAF7iNYdMHdk"
+#define API_KEY "Copy API Key Here"
 
 // Insert RTDB URLefine the RTDB URL */
 #define DATABASE_URL "https://carparking-aa456-default-rtdb.firebaseio.com/"
